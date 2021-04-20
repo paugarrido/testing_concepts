@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">testing</string>
+    <string name="main_activity_title">Main Activity Title</string>
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+    <string name="logged">Logged</string>
+    <string name="second_activity_title">Welcome Back</string>
+</resources>
